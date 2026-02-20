@@ -30,5 +30,4 @@ java -cp ".;lib/json-20240303.jar" SongChatbot
 
 ## 👨‍💻 Author
 Debarpan Roy
-javac -cp ".;lib/json-20240303.jar" SongChatbot.java
-▶️ How to Run
+
